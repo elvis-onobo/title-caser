@@ -7,6 +7,7 @@ To install the Title-caser package run the code below in your terminal
 ```npm i title-caser```
  
 ### Usage
+```const TitleCaser = require('title-caser')```
  
 ```TitleCaser.titleCase('my name is elvis onobo')```
 
