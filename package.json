@@ -4,7 +4,7 @@
 	"description": "Converts any string text to title-case and a few other formats as required",
 	"main": "index.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"test": "jest"
 	},
 	"repository": {
 		"type": "git",
@@ -22,5 +22,8 @@
 	"bugs": {
 		"url": "https://github.com/elvis-onobo/title-caser/issues"
 	},
-	"homepage": "https://github.com/elvis-onobo/title-caser#readme"
+	"homepage": "https://github.com/elvis-onobo/title-caser#readme",
+	"devDependencies": {
+		"jest": "^26.0.1"
+	}
 }

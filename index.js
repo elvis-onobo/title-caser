@@ -9,7 +9,7 @@ const TitleCaser = {
 	titleCase
 }
 
-TitleCaser.titleCase('I AM GING HOME')
+console.log(TitleCaser.titleCase('my name is elvis onobo'))
 
 /*
  * Exports
