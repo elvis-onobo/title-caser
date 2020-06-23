@@ -1,0 +1,26 @@
+{
+	"name": "title-caser",
+	"version": "1.0.0",
+	"description": "Converts any string text to title-case and a few other formats as required",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/elvis-onobo/title-caser.git"
+	},
+	"keywords": [
+		"titlecase",
+		"sentence-case",
+		"format",
+		"string",
+		"text"
+	],
+	"author": "Elvis Onobo",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/elvis-onobo/title-caser/issues"
+	},
+	"homepage": "https://github.com/elvis-onobo/title-caser#readme"
+}
