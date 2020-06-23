@@ -1,5 +1,6 @@
-# title-caser
+# [Title-caser](https://www.npmjs.com/package/title-caser)
  Convert any string text to title-case using this package
+ Search on NPM or just use the link: [Title-caser](https://www.npmjs.com/package/title-caser)
  
 ### Installation
 To install the Title-caser package run the code below in your terminal
