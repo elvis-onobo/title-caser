@@ -9,7 +9,7 @@ const TitleCaser = {
 	titleCase
 }
 
-console.log(TitleCaser.titleCase('my name is elvis onobo'))
+// console.log(TitleCaser.titleCase('my name is elvis onobo'))
 
 /*
  * Exports

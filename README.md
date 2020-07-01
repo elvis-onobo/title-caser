@@ -20,6 +20,9 @@ Output
 You are welcome to improve the package. Be sure to add testing as appropriate. 
 The package uses Jest for testing.
 
+### Todo
+Lower Case Common Words (e.g is, the etc)
+
 # Licence
 **MIT**
 
