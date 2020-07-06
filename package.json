@@ -1,6 +1,6 @@
 {
 	"name": "title-caser",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Converts any string text to title-case and a few other formats as required",
 	"main": "index.js",
 	"scripts": {
