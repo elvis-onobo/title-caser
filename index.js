@@ -5,13 +5,13 @@ const titleCase = require('./lib/titleCase')
 /**
  * Bundle all the methods into one object
  */
-// const TitleCaser = {
-// 	titleCase
-// }
+const TitleCaser = {
+	titleCase
+}
 
-// console.log(TitleCaser.titleCase('my name is elvis onobo'))
+console.log(TitleCaser.titleCase('my name is elvis onobo'))
 
 /*
  * Exports
  */
-module.exports = titleCase
+module.exports = TitleCaser

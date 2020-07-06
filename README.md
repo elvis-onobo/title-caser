@@ -21,7 +21,8 @@ You are welcome to improve the package. Be sure to add testing as appropriate.
 The package uses Jest for testing.
 
 ### Todo
-Lower Case Common Words (e.g is, the etc)
+Lower Case Common Words When They Are Not The First Word In The Sentence (e.g is, the etc)
+Add Ability To Slug A String
 
 # Licence
 **MIT**
