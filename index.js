@@ -1,17 +1,19 @@
-'use strict'
+"use strict";
 
-const titleCase = require('./lib/titleCase')
+const titleCase = require("./lib/titleCase");
+const acronym = require("./lib/acronym");
 
 /**
- * Bundle all the methods into one object
+ * Bundle all the modules into one object
  */
 const TitleCaser = {
-	titleCase
-}
+  titleCase,
+  acronym,
+};
 
-// console.log(TitleCaser.titleCase('my name is elvis onobo'))
+console.log(TitleCaser.acronym("my name is elvis onobo", 1));
 
 /*
  * Exports
  */
-module.exports = TitleCaser
+module.exports = TitleCaser;
