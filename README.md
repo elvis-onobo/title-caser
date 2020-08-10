@@ -27,9 +27,11 @@ You can also use this package to create acronyms from strings on the fly. For ex
 
 `MNIEO`
 
-If the acronym is too long, you can reduce it from the end by adding an optional parameter like so:
+You can choose where you want to start and stop creating your acronym with optional parameter like so:
 
-`TitleCaser.acronym('my name is elvis onobo', 2)`
+`TitleCaser.acronym(string, start, stop)`
+
+`TitleCaser.acronym('my name is elvis onobo', 0, 3)`
 
 ### Output:
 

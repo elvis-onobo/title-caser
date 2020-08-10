@@ -11,7 +11,7 @@ const TitleCaser = {
   acronym,
 };
 
-// console.log(TitleCaser.acronym("my name is elvis onobo", 1));
+// console.log(TitleCaser.acronym("my name is elvis onobo", 0, 3));
 
 /*
  * Exports
